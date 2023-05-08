@@ -2,7 +2,7 @@ import requests
 
 # Made by Enomiis on Github
 
-#  
+# simple refresh func imported from an earlier project
 
 class Refresh_Token():
     
